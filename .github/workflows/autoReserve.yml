@@ -9,7 +9,7 @@ on:
     paths:
       - '.github/workflows/**'
   schedule:
-    - cron: '58 6 * * *'
+    - cron: '28 7 * * *'
 
 env:
   TZ: Asia/Shanghai
